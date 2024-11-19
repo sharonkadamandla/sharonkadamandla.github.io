@@ -1,2 +1,2 @@
-# SharonKadamandla.github.io
+# sharonkadamandla.github.io
 My Portfolio
