@@ -1,7 +1,7 @@
 
 # Sharon Kadamandla - Portfolio  
 
-Built using **HTML, CSS, and JavaScript**  
+Built using **HTML, CSS, & JavaScript**  
 
 ## Overview  
 
@@ -12,7 +12,7 @@ This portfolio showcases:
 - Skills 
 
 ## Live Demo  
-Hosted on GitHub Pages: [sharonkadamandla.github.io](http://sharonkadamandla.github.io)  
+Hosted on GitHub : [sharonkadamandla.github.io](http://sharonkadamandla.github.io)  
 
 ## Version Control  
 Managed using **Git**  
