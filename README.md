@@ -1,7 +1,7 @@
 # sharonkadamandla
 My Portfolio
 
-Structure of Protfolio: 
+## Structure of Protfolio: 
  
  My Projects
  
@@ -11,8 +11,8 @@ Structure of Protfolio:
 
  Projects
 
-Hosted on github
+## Hosted on github
 
-Version Control : Git
+## Version Control : Git
 
-Tutorial Followed : https://www.youtube.com/watch?v=ldwlOzRvYOU
+## Tutorial Followed : https://www.youtube.com/watch?v=ldwlOzRvYOU
