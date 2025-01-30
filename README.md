@@ -1,22 +1,24 @@
-# sharonkadamandla
-My Portfolio
 
-## Structure of Protfolio: 
- 
- My Projects
- 
- Professional Experience
- 
- Skills
+# Sharon Kadamandla - Portfolio  
 
- Projects
+Built using **HTML, CSS, and JavaScript**  
 
-## Hosted on github
+## Overview  
 
-## Version Control : Git
+This portfolio showcases:  
+- About Me  
+- Projects  
+- Professional Experience
+- Skills 
 
-## Tutorial By  John Doe
+## Live Demo  
+Hosted on GitHub Pages: [sharonkadamandla.github.io](http://sharonkadamandla.github.io)  
 
-Youtube : https://www.youtube.com/watch?v=ldwlOzRvYOU
+## Version Control  
+Managed using **Git**  
 
-Github link : https://github.com/Ade-mir/html-css-js-portfolio-tutorial-2/tree/main
+## Credits  
+This project is based on a tutorial by **John Doe**. The code was written while following his public tutorial and GitHub repository.  
+
+- **YouTube Tutorial:** [Watch Here](https://www.youtube.com/watch?v=ldwlOzRvYOU)  
+- **GitHub Repository:** [View Code](https://github.com/Ade-mir/html-css-js-portfolio-tutorial-2/tree/main)  
