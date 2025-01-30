@@ -15,4 +15,8 @@ My Portfolio
 
 ## Version Control : Git
 
-## Tutorial Followed : https://www.youtube.com/watch?v=ldwlOzRvYOU
+## Tutorial By  John Doe
+
+Youtube : https://www.youtube.com/watch?v=ldwlOzRvYOU
+
+Github link : https://github.com/Ade-mir/html-css-js-portfolio-tutorial-2/tree/main
