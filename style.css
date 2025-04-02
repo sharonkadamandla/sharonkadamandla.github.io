@@ -281,6 +281,9 @@ section {
 
 #about {
     position: relative;
+    max-width: 1200px; 
+    margin: 0 auto; 
+    padding: 0 1rem;
 }
   
 .about-containers {
@@ -317,20 +320,23 @@ section {
     border: rgb(53, 53, 53) 0.1rem solid;
     border-color: rgb(163, 163, 163);
     text-align: center;
+    min-width: 250px;
 }
+
 
 .section-container {
-    gap: 4rem;
-    height: 80%;
+    gap: 0rem;
+    height: 70%;
 }
 
+/* Profile Picture */
 .section__pic-container {
     height: 400px;
     width: 400px;
     margin: auto 0;
 }
   
-/* EXPERIENCE SECTION */
+/* EXPERIENCE/SKILLS SECTION */
   
 #experience {
     position: relative;
