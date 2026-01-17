@@ -228,6 +228,12 @@ section {
     cursor: pointer;
     height: 2rem;
 }
+
+.socials-icon {
+    cursor: pointer;
+    width: 30px;
+    height: 30px;
+}
   
 /* BUTTONS */
 
